@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZOOZOL Pet Store</string>
+    <string name="title_activity_maps">ZOOZOL Pet Store</string>
+    <string name="zoozol_header">Zoozol Pet Store</string>
+    <string name="name">Jan Kowalski</string>
+    <string name="address">Łazowskiego 52 St.</string>
+    <string name="opening_time">08:00-17:00</string>
+</resources>
